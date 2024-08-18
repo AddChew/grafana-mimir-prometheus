@@ -32,3 +32,5 @@ chmod +x mimir/mimir-linux-amd64
 ```shell
 supervisord -n
 ```
+
+4. Access grafana at http://localhost:3000, prometheus at http://localhost:9090 and mimir at http://localhost:8000.
