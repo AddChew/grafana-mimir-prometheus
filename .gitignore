@@ -1,0 +1,7 @@
+grafana-v11.1.4
+wal
+data
+tsdb
+alertmanager
+*.log
+*amd64
